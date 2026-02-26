@@ -54,3 +54,27 @@
 // console.log(sum);
 
 
+// function evenkv(arr){
+//     sum=0;
+//     for(var i=0;i<arr.length;i++){
+//         if (arr[i]%2 == 0){
+//             sum=sum+arr[i];
+//         }
+//     }
+//     return sum;
+// }
+
+// function number(a, b){
+//     sum=0;
+//     if(typeof a === "number" && typeof b === "number"){
+//         for (var i=a;i<=b;i++){
+//             sum=sum+i;
+//         }
+//         return sum;
+//     }
+//     else{
+//         return "Daxil edilen deyerler eded deyil";
+//     }
+// }
+
+// console.log(number(1, 3));
