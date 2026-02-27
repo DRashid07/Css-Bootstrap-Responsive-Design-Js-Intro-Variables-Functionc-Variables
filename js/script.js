@@ -78,3 +78,5 @@
 // }
 
 // console.log(number(1, 3));
+
+// script end
