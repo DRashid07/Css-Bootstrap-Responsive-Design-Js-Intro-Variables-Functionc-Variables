@@ -4,6 +4,7 @@
 // console.log(document);
 // document.writeln("Hello World")
 
+// script start
 
 // var num=14;
 // console.log(num%3 == 0 && num%7 == 0);
